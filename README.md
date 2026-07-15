@@ -4,7 +4,7 @@ A machine learning project that predicts whether a bank customer is likely to le
 
 ---
 
-# Live Demo -  https://bank-churn-prediction-lpda.onrender.com
+# Live Demo -  https://bank-churn-prediction-lpda.onrender.com/docs
 
 ## 📌 Problem Statement
 
