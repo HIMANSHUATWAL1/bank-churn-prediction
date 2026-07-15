@@ -6,6 +6,8 @@ A machine learning project that predicts whether a bank customer is likely to le
 
 # Live Demo -  https://bank-churn-prediction-lpda.onrender.com/docs
 
+** Live demo through "render.com"
+
 ## 📌 Problem Statement
 
 Banks lose money every time a customer leaves. But retention teams can't personally check on every single customer — it doesn't scale.
