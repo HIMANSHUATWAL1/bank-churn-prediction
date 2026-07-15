@@ -20,6 +20,17 @@ Banks lose money every time a customer leaves. But retention teams can't persona
 
 ---
 
+## Our journey --
+✅ Data cleaning + EDA
+✅ Model comparison (Logistic Regression → Random Forest)
+✅ Hyperparameter tuning
+✅ Caught and fixed data leakage bug
+✅ Caught and fixed scaling mismatch bug
+✅ FastAPI wrapper with validation
+✅ Dockerized
+✅ Pushed to GitHub with clean structure + README
+✅ Deployed live on Render
+
 ## 📊 Dataset
 
 - **Source:** Bank Customer Churn dataset (`Churn_Modelling.csv`)
